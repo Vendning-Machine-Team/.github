@@ -1,10 +1,5 @@
 ![Group Members](images/group_photo.jpg)
 
-<p align="center">
-  <img src="images/wheels_moving.gif" width="49%" alt="Final Robot" />
-  <img src="images/assembly_V2.webp" width="49%" alt="Final Robot Assembly" />
-</p>
-
 # Vending Machine Robot
 
 ### By Samantha Machado, Prince Patel, Matthew Beck, Syan Shirazi, Samuel Saylor, Cayden Hutcheson, Tri Nguyen, Adeyemi Akanbi, Ryler Collins, Victoria Adams, and Anthony Nguyen
